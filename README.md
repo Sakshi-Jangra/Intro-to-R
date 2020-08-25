@@ -13,17 +13,20 @@ makeData.R output
 > #read from a csv file
 > df2 <- read.csv("./dataforR1.csv")
 > print(df2)
-  VarInt VarReal VarChar
-1      1     100  Sakshi
-2      2      80  Aastha
-3      3      60 Sukriti
-4      4      40 Sanjana
-5      5      20  Souyma
+
+| |   VarInt | VarReal | VarChar | 
+|--|--|--|---|
+| 1    |  1  |   100 | Sakshi|
+|2    |  2    |  80 | Aastha|
+|3   |   3    |  60 | Sukriti|
+|4  |    4     | 40 | Sanjana|
+|5 |     5     | 20 | Souyma |
 
 # -----------   OR( other data sets ) --------
-  VarInt VarReal      VarChar
-1      1     0.1            R
-2      2     0.2          and
-3      3     0.3  Data Mining
-4      4     0.4     Examples
-5      5     0.5 Case Studies
+|     |  VarInt | VarReal    |  VarChar
+|---|---------|-----------|----------|
+| 1     | 1     | 0.1           | R
+|2     | 2     | 0.2          | and
+3     | 3     | 0.3  | Data Mining | 
+4      | 4     | 0.4   |  Examples|
+5     | 5     | 0.5 | Case Studies|
