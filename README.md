@@ -31,7 +31,7 @@ print(df2)
 |4  |    4     | 40 | Sanjana|
 |5 |     5     | 20 | Souyma |
 
-# -----------   OR( other data sets ) --------
+**-----------   OR( other data sets ) --------**
 |     |  VarInt | VarReal    |  VarChar
 |---|---------|-----------|----------|
 | 1     | 1     | 0.1           | R
